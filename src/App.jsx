@@ -18,6 +18,8 @@ const studentsList = [
   { name: "Olivia Miller", age: 19, course: "Sociology", country: "Australia" }
 ];
 
+//coment data 
+console.log(1+1)
 const App = () =>{
   return(
     <div>
