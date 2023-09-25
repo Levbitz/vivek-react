@@ -2,11 +2,15 @@
 
 const Student = ({name ,course ,address}) =>{
     return(
-      <div>
-      <h2>{name}</h2>
-      <h5>{course}</h5>
+<div className=" col l3  s6 ">
+  
+
+      <div className="student_wrap white">
+      <h6>{name}</h6>
+      <p>{course}</p>
       <p>{address}</p>
       </div>
+</div>
     )
   
   }
