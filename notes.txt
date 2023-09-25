@@ -1,0 +1,40 @@
+React - SPA - (Single page application)
+
+old Websites
+(index.html , about.html ,contact .html)
+
+
+
+//Single html file (index.html)
+(Virtual DOM)
+
+Requirements
+Javascript - (Es6 )   + 
+Node - (Run time environment)
+Text editor (VS code)
+
+
+
+
+Commands to  run 
+npm create vite@latest     
+
+npm install
+npm run  dev
+
+File  Structure
+
+
+
+Core Concepts.
+
+Copmonent
+Props (properties)
+Hooks (useState ,useEffect ,useReducer, useMemo ,useCallback etc)
+Routing,
+Optimisation
+Testing
+
+
+
+
