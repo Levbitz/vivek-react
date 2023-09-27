@@ -1,6 +1,7 @@
 import Student from './components/Student'
 //import { studentsList } from './data/data'
 import './App.css'
+import FirstHook from './components/hooks/FirstHook';
 
 
 
@@ -23,6 +24,10 @@ console.log(1+1)
 const App = () =>{
   return(
     <div>
+
+
+
+    <FirstHook/>
     <h4
    
 
